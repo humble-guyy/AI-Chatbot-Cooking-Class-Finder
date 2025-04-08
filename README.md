@@ -1,4 +1,4 @@
-Live at : https://humble-guyy.github.io/AI-chatbot/ 
+Live at : https://humble-guyy.github.io/AI-Chatbot-Cooking-Class-Finder/
 
 # Cooking Class Finder Chatbot
 
